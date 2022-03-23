@@ -1,8 +1,10 @@
-# documentation\_internal
+# Internal Documentation for ClinGen Team
 
 Internal documentation For ClinGen Stanford Teams (devs and curators).
 
-<br/>
+\
+
 
 ## Runbooks:
-- [Restore DynamoDB Table](runbooks/dynamodb-restore.md)
+
+* [Restore DynamoDB Table](runbooks/dynamodb-restore.md)
