@@ -1,0 +1,41 @@
+# Stanford ClinGen developer documentation
+
+<figure>
+    <img width="300px" src="./img/scott-reinhard-grand-teton-map.jpg" alt="A map of the Teton range"/>
+    <figcaption>A map of the <a href="https://en.wikipedia.org/wiki/Teton_Range">Teton range</a>. Photo credit: Scott Reinhard.</figcaption>
+</figure>
+
+---
+
+> *You must have a map, no matter how rough. Otherwise you wander all
+> over the place.*
+
+– J.R.R. Tolkein
+
+---
+
+This is a central repository that houses developer documentation with links to
+other pieces of developer documentation. It's meant to provide a high-level
+overview of development at ClinGen. Project-specific documentation should live
+in the same repository as the code it documents.
+
+- [Getting started]()
+    - Outlines the general steps to take when you first start work here.
+- [A map of ClinGen]()
+    - Describes the various parts of the ClinGen consortium and how
+      Stanford ClinGen fits in.
+- [Culture and values]()
+    - Discusses the culture we are trying foster. Also discusses what
+      we value as an organization.
+- [Processes]()
+    - Documents the processes that apply to any repository in the
+      ClinGen organization.
+- [History]()
+    - Provides a brief history of ClinGen and some extra details on this
+      history of Stanford ClinGen.
+- [Documentation]()
+    - Documents how we document things. (That's so meta!)
+- [Code standards]()
+    - Lists our standards for production-quality code.
+- [Project-specific documentation]()
+    - Links to the documentation for our projects.
