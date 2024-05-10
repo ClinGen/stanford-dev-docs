@@ -11,15 +11,18 @@ These docs are meant to be read sequentially by someone new to the team.
 ## Your first few days
 
 Assuming you've already got your Stanford laptop, one of the devs will schedule
-a casual one-on-one meeting with you to discuss getting started. Some goals you
-could set for yourself during your first few days are:
+a casual one-on-one meeting with you to discuss getting started. (If you don't
+have your laptop yet, no worries.) Some goals you could set for yourself during
+your first few days are:
 
-- say hello to everybody in the `#general` channel on the Gecko Group Slack,
+- get your laptop,
 - make sure you have access to your Stanford email,
+- make sure you have access to the Gecko Group Slack,
+- say hello to everybody in the `#general` channel on the Gecko Group Slack,
 - read through these docs,
 - get started on required training for Stanford, and
 - review the [onboarding checklist](#onboarding-checklist) GitHub issue to see
-  what needs to be done.
+  what else needs to be done.
 
 Be sure to follow up on anything that needs doing, and don't be afraid to ask
 questions either on Zoom or on Slack.
