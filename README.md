@@ -23,7 +23,7 @@ This is living documentation. We expect you to be proactive about fixing
 anything that is incorrect or outdated. Feel free to improve on anything you
 deem fit. At the very least, file an issue.
 
-- [Getting started](<>)
+- [Getting started](./doc/getting-started.md)
   - Outlines the general steps to take when you first start work here.
 - [A map of ClinGen](<>)
   - Describes the various parts of the ClinGen consortium and how Stanford
