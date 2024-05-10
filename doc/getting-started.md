@@ -18,8 +18,8 @@ could set for yourself during your first few days are:
 - make sure you have access to your Stanford email,
 - read through these docs,
 - get started on required training for Stanford, and
-- review the [onboarding](#onboarding) GitHub issue to see what needs to be
-  done.
+- review the [onboarding checklist](#onboarding-checklist) GitHub issue to see
+  what needs to be done.
 
 Be sure to follow up on anything that needs doing, and don't be afraid to ask
 questions either on Zoom or on Slack.
@@ -38,7 +38,7 @@ some one-on-one time with each of the devs and the non-devs to get to know them
 and ask some questions about what they work on. Feel free to ask plenty of
 questions! There are no "bad" or "dumb" questions.
 
-## Onboarding
+## Onboarding checklist
 
 In the past we've had an informal onboarding process where we would coordinate
 via Slack and get everything set up. As of May 2024, we're trying a new process
