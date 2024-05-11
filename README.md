@@ -28,10 +28,10 @@ deem fit. At the very least, file an issue.
 - [A map of ClinGen](./doc/a-map-of-clingen.md)
   - Describes the various parts of the ClinGen consortium and how Stanford
     ClinGen fits in.
-- [Culture and values](<>)
+- [Culture and values](./doc/culture-and-values.md)
   - Discusses the culture we are trying foster. Also discusses what we value as
     an organization.
-- [Processes](<>)
+- [Processes](./doc/processes.md)
   - Documents the processes that apply to any repository in the ClinGen
     organization.
 - [History](<>)
