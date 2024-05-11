@@ -25,7 +25,7 @@ deem fit. At the very least, file an issue.
 
 - [Getting started](./doc/getting-started.md)
   - Outlines the general steps to take when you first start work here.
-- [A map of ClinGen](<>)
+- [A map of ClinGen](./doc/a-map-of-clingen.md)
   - Describes the various parts of the ClinGen consortium and how Stanford
     ClinGen fits in.
 - [Culture and values](<>)
