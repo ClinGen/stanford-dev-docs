@@ -36,3 +36,25 @@ curation as defined above. This usually involves pulling data in from many
 different sources, making it available in the interfaces, then providing a way
 for curators to use that information to do their interpretations and evaluations
 in a (hopefully) streamlined fashion.
+
+### The Gecko Group
+
+Stanford ClinGen is part of the Gecko Group at Stanford led by Teri Klein. The
+organization chart looks like this:
+
+```mermaid
+    graph TD
+        A[Teri Klein, Director of the Gecko Group] --> B[Michelle Whirl-Carrillo, Director of PGx]
+        B --> C[PGx Devs]
+        B --> D[PGx Curators]
+        A --> E[Matt Wright, Director of Stanford ClinGen]
+        E --> F[Stanford ClinGen Devs]
+        E --> G[Stanford ClinGen Curators]
+```
+
+PGx is the abbreviation for pharmacogenomics, which is the study of how genes
+affect a person's response to drugs. The developers on the PGx side of the Gecko
+Group work on the Pharmacogenomics Knowledgebase (PharmGKB) and other tools.
+They keep their code on GitHub [here](https://github.com/PharmGKB). We have
+Gecko Group meetings regularly, and we collaborate with the PGx devs where
+possible.
