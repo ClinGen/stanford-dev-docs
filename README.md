@@ -34,7 +34,7 @@ deem fit. At the very least, file an issue.
 - [Processes](./doc/processes.md)
   - Documents the processes that apply to any repository in the ClinGen
     organization.
-- [History](<>)
+- [History](./doc/history.md)
   - Provides a brief history of ClinGen and some extra details on this history
     of Stanford ClinGen.
 - [Planned improvements](<>)
