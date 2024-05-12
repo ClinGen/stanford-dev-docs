@@ -37,7 +37,7 @@ deem fit. At the very least, file an issue.
 - [History](./doc/history.md)
   - Provides a brief history of ClinGen and some extra details on this history
     of Stanford ClinGen.
-- [Planned improvements](<>)
+- [Planned improvements](./doc/planned-improvements.md)
   - Discusses our plans for improving our code and our development processes.
 - [Documentation](<>)
   - Documents how we document things. (That's so meta!)
