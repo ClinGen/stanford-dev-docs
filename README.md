@@ -39,7 +39,7 @@ deem fit. At the very least, file an issue.
     of Stanford ClinGen.
 - [Planned improvements](./doc/planned-improvements.md)
   - Discusses our plans for improving our code and our development processes.
-- [Documentation](<>)
+- [Documentation](./doc/documentation.md)
   - Documents how we document things. (That's so meta!)
 - [Code standards](<>)
   - Lists our standards for production-quality code.
