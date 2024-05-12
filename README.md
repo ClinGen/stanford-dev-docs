@@ -43,7 +43,7 @@ deem fit. At the very least, file an issue.
   - Documents how we document things. (That's so meta!)
 - [Code standards](./doc/code-standards.md)
   - Lists our standards for production-quality code.
-- [Project-specific documentation](<>)
+- [Project-specific documentation](./doc/project-specific-documentation.md)
   - Links to the documentation for our projects.
 
 The Markdown documents in this repository should be formatted using the `mdfmt`
