@@ -48,5 +48,5 @@ create software. There are tried-and-true ways of doing this:
 
 ## Curiosity
 
-If you have a question, or if something seems strange to you, please ask
-questions! Dig into crufty code. Don't be afraid to get your hands dirty.
+If something seems strange to you, please ask questions! Dig into crufty code.
+Don't be afraid to get your hands dirty.
