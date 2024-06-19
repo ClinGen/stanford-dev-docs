@@ -46,8 +46,9 @@ deem fit. At the very least, file an issue.
 - [Project-specific documentation](./doc/project-specific-documentation.md)
   - Links to the documentation for our projects.
 
-The Markdown documents in this repository should be formatted using the `tasks.py`
-[Invoke](https://www.pyinvoke.org/) script. To format all of the files in this
-repository, first install [Pipenv](https://pipenv.pypa.io/en/latest/), then format
-the docs: `pipenv run invoke fmt`. To run pre-commit checks for this repository:
+The Markdown documents in this repository should be formatted using the
+`tasks.py` [Invoke](https://www.pyinvoke.org/) script. To format all of the
+files in this repository, first install
+[Pipenv](https://pipenv.pypa.io/en/latest/), then format the docs:
+`pipenv run invoke fmt`. To run pre-commit checks for this repository:
 `pipenv run invoke check`.

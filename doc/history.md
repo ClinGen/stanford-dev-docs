@@ -32,3 +32,6 @@ end. There's a sentence in the paper that describes the old tech stack:
 > a web-frontend component (ReactJS), backend business logic layer (Python and
 > Pyramid), a split persistence layer containing the state and metadata database
 > (PostgreSQL), and search indexes (AWS Elasticsearch).
+
+A [paper](https://pubmed.ncbi.nlm.nih.gov/38663031/) on the GCI is going to be
+published in July 2024.
