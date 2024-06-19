@@ -3,9 +3,9 @@
 This is the history of ClinGen as best I (Liam Mulhall) know it. It will
 probably contain inaccuracies that will need to be corrected. ClinGen was
 started in 2013. Matt Wright wasn't part of the initial cohort of people who
-worked on ClinGen, but he was part of the second cohort (in 2015). Stanford ClinGen wasn't
-originally part of the Gecko Group. Teri Klein absorbed Stanford ClinGen into
-her group in 2021.
+worked on ClinGen, but he was part of the second cohort (in 2015). Stanford
+ClinGen wasn't originally part of the Gecko Group. Teri Klein absorbed Stanford
+ClinGen into her group in 2021.
 
 Our old repository (available to peruse
 [here](https://github.com/ClinGen/clincoded)) has Git commits going back to

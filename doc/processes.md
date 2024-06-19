@@ -21,9 +21,10 @@ development tasks, and it's good for your mental and physical health.
 ## Taking time off
 
 We have a Google Calendar that shows when people are out of the metaphorical
-office. We also have a Slack channel (calendar_clingen) where people post about their time off. If
-you plan on taking time off, first contact your line manager with the request, then add a calendar event, then post about your
-time off to the calendar_clingen Slack channel so that people know you're going to be out.
+office. We also have a Slack channel (calendar_clingen) where people post about
+their time off. If you plan on taking time off, first contact your line manager
+with the request, then add a calendar event, then post about your time off to
+the calendar_clingen Slack channel so that people know you're going to be out.
 
 ## Communication
 

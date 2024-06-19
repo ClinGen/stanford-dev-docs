@@ -6,9 +6,9 @@ Don't worry about "hitting the ground running." Slow and steady wins the race.
 
 ## How to read these docs
 
-These docs are meant to be read sequentially by someone new to the team.
-They are developer-oriented. We also have a more general onboarding
-guide [here](https://docs.google.com/document/d/1r1ey2LSYSoA5hJHs0ag1W9Wj-m0hR7Q6zn7Sizroijc/edit#heading=h.20tp5oonbn50).
+These docs are meant to be read sequentially by someone new to the team. They
+are developer-oriented. We also have a more general onboarding guide
+[here](https://docs.google.com/document/d/1r1ey2LSYSoA5hJHs0ag1W9Wj-m0hR7Q6zn7Sizroijc/edit#heading=h.20tp5oonbn50).
 
 ## Your first few days
 
